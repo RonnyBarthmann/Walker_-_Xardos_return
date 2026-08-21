@@ -1,10 +1,12 @@
 # Walker - Xardos' return
 
 Autor: Ronny Barthmann
+
 Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Beschreibung
 Eine Geschichte über die Wiedergeburt (isekai) eines Menschen als Magier in einer anderen Welt
+
 German Novel About a Reborn (isekai) Human becoming a Mage in another World
 
 ## Lizenz
