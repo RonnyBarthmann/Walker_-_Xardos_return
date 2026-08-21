@@ -25,3 +25,4 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
 ## Dateien
 - `xardos.txt` – der vollständige Roman (plain text file)
 - `xardos.odt` - der vollständige Roman
+- `doc/*`      - zusätzliche Informationen für das Verständnis der Geschichte
