@@ -1,0 +1,37 @@
+MU  HI LA FEE = VII - Feuersturm
+MEK    LA NOP =  II - Feuerkugel
+
+----------------------------------------------------------------
+
+Stufe:  MU  = VII (7)
+        MA  = VI  (6)
+        MO  = V   (5)
+        MIK = IV  (4)
+        MI  = III (3)
+        MEK = II  (2)
+        ME  = I   (1)
+
+Zusatz: HI = Ohne Bereichslimit
+
+Klasse: LA = Feuer
+        LO = Wasser
+        LI = Licht
+        LU = Blitz
+        LE = Natur
+   (lü) LY = Schatten/Nekromanie
+
+Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
+        LA FEE = Feuersturm
+        LO FEE = Welle
+        LI FEE = Licht (LI FEE = Lichtkegel / HI LI FEE = in alle Richtungen)
+        LU FEE = vom Wirker ausgehende Blitzwolke (wie eine Plasmakugel)
+        LE FEE = Erdbeben
+        LY FEE = Dunkelheit (umschließt das Opfer)
+        
+           NOP = Kugel (bis Stufe 4 auch Spruchlos)
+        LA NOP = Feuerball   (kann ab Stuffe 2 verdichtet werden, wird dann schwarz)
+        LO NOP = Eiskristall (kann ab Stuffe 2 verdichtet werden, wird dann dunkelblau)
+        LI NOP = kleines Licht (wie eine Kerze, heilt bei Berührung)
+        LU NOP = kleiner elektrischer Schlag (wie ein Taser)
+        LE NOP = Steine (können in hoher abfolge geschossen werden)
+        LY NOP = Mana kugel, entzieht Leben (lehmt bei Berührung temporär, ab Stuffe 6 permanent)
