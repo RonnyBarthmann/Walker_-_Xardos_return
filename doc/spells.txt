@@ -23,15 +23,23 @@ Klasse: LA = Feuer
 Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
         LA FEE = Feuersturm
         LO FEE = Welle
-        LI FEE = Licht (LI FEE = Lichtkegel / HI LI FEE = in alle Richtungen)
         LU FEE = vom Wirker ausgehende Blitzwolke (wie eine Plasmakugel)
         LE FEE = Erdbeben
+        LI FEE = Licht (LI FEE = Lichtkegel / HI LI FEE = in alle Richtungen)
         LY FEE = Dunkelheit (umschließt das Opfer)
         
            NOP = Kugel (bis Stufe 4 auch Spruchlos)
         LA NOP = Feuerball   (kann ab Stuffe 2 verdichtet werden, wird dann schwarz)
         LO NOP = Eiskristall (kann ab Stuffe 2 verdichtet werden, wird dann dunkelblau)
-        LI NOP = kleines Licht (wie eine Kerze, heilt bei Berührung)
         LU NOP = kleiner elektrischer Schlag (wie ein Taser)
         LE NOP = Steine (können in hoher abfolge geschossen werden)
+        LI NOP = kleines Licht (wie eine Kerze, heilt bei Berührung)
         LY NOP = Mana kugel, entzieht Leben (lehmt bei Berührung temporär, ab Stuffe 6 permanent)
+
+           REP = Steuern von Energie / "Bändigen" (mindestens Stufe 3 erforderlich)
+        LA REP = Feuerbändigen
+        LO REP = Wasserbändigen (und Eis)
+        LU REP = 
+        LE REP = Erdbändigen / Ranken, Pflanzen und Wurzeln bändigen (ab Stufe 5 auch Metalle/Eisen)
+        LI REP = innere wunden Heilen (auch Statuseffekte wie Überlkeit und Vergiftung)
+        LY REP = Geister Befehligen
