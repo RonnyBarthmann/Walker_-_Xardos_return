@@ -127,3 +127,23 @@ Stufe V   : 10.000
 Stufe VI  : 100.000
 Stufe VII : mindestens 1.000.000 (in der Regel wesentlich höher, da "open end")
 
+---------------------- Manapools ---------------------
+
+Jeder Magier ist eine Manaquelle
+zusätzlich kann er Gegenstände haben (Verzaubert oder Relikte/Artefakte) die sein Mana ergänzen oder verstärken.
+
+Dabei hat man jedoch nicht "eine Quelle" im Körper, sondern verschiedene Quellen, die verschiedene "Arten" von Mana bereitstellen.
+Man hat also eine Quelle für jede Stufe von Zaubern.
+
+Deshalb sind Steine und Artefake auch immer fest einer Stufe von Zauber zugewiesen.
+
+Normalerweise balanced der Körper das, das heist, wenn z.B. die Quelle für Stuffe 3 Mana verbraucht wird, regeneriert der Körper das mit Mana der Stufe 4 und 2 nach, dann regeneriert er Stufe 2 und 4 mit Stufe 1 und 5 nach usw. bis wieder alles "im Gleichgewicht" ist.
+
+Aufgrund dessen ist es normalerweisse unerheblich und alles fühlt sich "wie ein und das Selbe Mana" an. Viele Magier wissen daher nicht mal, das es mehrere Arten gibt.
+
+Doch es ist wichtig zu verstehen, das es verschiedene Pools sind, da es Momente gibt in dennen man z.B. sein gesamtes Stufe 7 Mana aufbraucht (z.B. bei einem ultimativen Angriff) und dann der Körper erstmal neues generieren muss.
+In so einem Fall kann man also Nach einem Stufe 7 Ult kein weiteren Stufe 7 Zauber anwenden, jedoch problemlos Zauber aller anderen Stufen.
+Wirklich zum tragen kommt das aber nur bei Stufe 7 Zauber da normaler weise nur diese schneller Mana verbrauchen können als der Körper ausgleichen kann.
+
+Dennoch kann man durchaus auch z.B. Stufe 6 und 5 Zauber so schnell und lange "spamen", bis dessen Mana erschöpft ist. Dann kann einem Magier auffallen, das er trotzdem noch Stufe 4 Zauber wirken kann.
+Magier mit viel Erfahrung und Macht wissen das natürlich. Magier, die jedoch nur "Lehrbuch Magie" kennen, lernen so was jedoch nur selten. (und können meißt eh nicht mehr als Stufe 3 max Stufe 4 Magie)
