@@ -1,0 +1,129 @@
+--------------- Charaktere ---------------------
+
+Walker:
+MC Mensch (männlich) 14 Jahre (*1,33 = 18 Erdjahre)
+Auf einem Hof aufgewachsen.
+Hat erinnerungen an seine alten Welt, als wäre es gestern gewesen.
+Hat Visionen und Zusammenbrüche, in dennen ihm Xardos erscheint, dessen Macht im ihm versiegelt ist.
+
+Xardos:
+Verstorben
+Mensch (männlich) 40 Jahre
+Hochmagier der Stufe VII. Kann Elementarmagie und Göttliche Magie.
+Hat eine Schwarze Robe und ein vernarbtes Gesicht. Erscheint Walker in Visionen da seine Macht in ihm versiegelt ist.
+Items: Robe des Raben, Spruch des Raben, Ring des Raben
+
+Anita:
+Elfin (weiblich) 14 Jahre
+Annikas jüngere Schwester
+Verlobte von Walker
+Bogenschützin und Elementarmagierin der Stufe II.
+Hat helle, lange Haare, die im Sonnenlicht in verschiedenen Farben erleuchten, als sei es ein Regenbogen
+Nutzt vor allem Magiepfeile, die ihre Schwester ich verzaubert.
+Items: Langbogen, Elementarmagiepfeile Stufe V
+
+Annika:
+Elfin (weiblich) 15 Jahre
+Anitas ältere Schwester
+Elementarmagierin der Stufe V.
+Hat helle, schulterlange, gewellte Haare, die einen leichten gelbschimmer besitzen.
+Nutzt einen Körpergroßen Zauberstab und nutzt ihre Kraft vorallem um die Pfeile ihrer Schwester mit Stufe V Zauber zu verzaubern.
+Items: Zauberstab Stufe VI, Magiesteine der Stufe VI
+
+Alita:
+Mensch (weiblich) 18 Jahre
+Ritterin mit starker Verteidigung und schwerem Angriff.
+Hat blones Haar, das man nie sieht, weil sie fast immer den Helm trägt.
+Ihre Rüstung ist das Erbe ihres Vaters, von dem sie auch ihr Handwerk hat.
+Items: Schwert des Falken, Schild des Falken, Rüstung des Falken
+
+------------------ Anderes -------------------
+
+Tal der Dämmerung:
+Eine weitläufige Grasebene, gesäumt von weitläufigen Bergen.
+Todesort von Xardos und Epizentrum von LUMILAFEE
+
+Das Buch des Raben:
+Ein Buch, in dem alle überlieferungen des Gottes "Der Rabe" zusammengetragen wurden
+
+Der Rabe:
+Einer der „alten Götter.“
+Gott der Dunkelmagie / Gott des Nekromanten „Gott des Schlächters“
+
+Die Gnade des Raben:
+Ein mächtiges Artefakt des Gottes „Der Rabe“
+Ist ein Amulett, das die Macht und den Geist des Trägers in einen anderen Körper überträgt und sie dort versiegelt (Wiedergeburt), sobald dieser Stirbt. Hinterlässt eine Feder am Todesort (ebenfals ein Artefakt) das die Macht freigibt, sobald sie mit Blut des wiedergeborenen in berührung kommt.
+Die Feder (solage sie eine ist) versiegelt alle Gegenstände in der Nähe mit einem Schutzzauber der Stufe VII (und schützt damit den "Loot-Drop" des Verstorbenen)
+
+Robe des Raben:
+Dunkle Robe
+Rüstung: Stich- und Schnitt-Schaden: -50%, Melee-Schaden: -0%, Elementarmagieschaden: -99%, göttlicher Magieschaden: -95%
+Effekte: unlimitierte Unsichtbarkeit, Lautlosigkeit
+
+Spruch des Raben:
+Eine Bandage mit Runen der Magiestufe VII die den Oberkörper bedeckt
+Boosts: Elementarmagieboost: +9900%, göttlicher Magieboost: +900%, Max Mana: +900%, Mana Regeneration: +900%
+
+Ring des Raben:
+Ein Fingerring mit einem Schwarzen Kristall der Magiestufe VII
+Boosts: Max Leben: +900%, Leben Regeneration: +900%
+
+Schwert des Falken:
+Langschwert das Langsam ist aber dafür enorme Energie aufbauen kann.
+Nervs: -75% bewegungsgeschwindigkeit bei Angriff
+Boosts: Rüstung des Gegners: -90%, Ausweichen von Gegner: -99%
+
+Schild des Falken:
+Massives Breitschild
+Nervs: -75% bewegungsgeschwindigkeit beim Parieren
+Boosts: Schaden des Gegners: -90% (normal und magie)
+
+Rüstung des Falken:
+Mehrteiliges Rüstungsset bestehend aus weißem Stahl
+Boosts: negiert, bei vollem Set (set effekt) das Gewicht der Rüstung selbst und des "Schwert des Falken" und "Schild des Falken", Schaden des Gegners: -90% (normal) und -99% (magie)
+
+Info:
+Schadensreduzierungen werden immer multipliziert, nie addiert.
+Bei Rüstung UND Schild des Falken heist das z.B. das bei der Rüstung 99% (bei Magie) abgezogen werden und DANNACH nochmal 90% auf die so schon nurnoch 1%.
+Damit hat man bei besitz von Rüstung und Schild eine Effektive Schadensreduzierung von: Magie: -99.9% und Normal: -99%
+Deswegen hat die Rüstung des Falken solche Kraft: hat man auch das Schild werden geade mal 0.1% von Magischer angriffen AUF DAS SCHILD abgewert
+Natürlich git das nur, solange auch das Schild getroffen wird.
+Wird die Rüstung direkt getroffen, ist das Schild (wie jedes Schild) wirkungslos.
+
+------------------ Einordnung -------------------
+
+Schaden (normal):
+Faust                        : 1
+Schwert                      : 10
+meisten "kleineren" Monster  : 30-70
+meisten menschengroße Monster: 70-500
+Ritterschwert                : 100
+Schwert des Falken           : 1500
+
+Rüstung:
+keine               : 0
+Dicke Jacke         : 1
+leichte Eisenrüstung: 50
+Panzerhaut (Monster): 100-1000
+schwere Eisenrüstung: 250
+Rüstung des Falken  : 2500
+Schild des Falken   : 5000
+
+Schaden (magie - normal angriff - wiederholbar)
+Stufe I   : 1
+Stufe II  : 3-
+Stufe III : 10
+Stufe IV  : 300
+Stufe V   : 1000 
+Stufe VI  : 3000
+Stufe VII : mindestens 10.000 (in der Regel wesentlich höher, da "open end")
+
+Schaden (magie - ultimativer angriff - 100% mana verbraucht)
+Stufe I   : -
+Stufe II  : -
+Stufe III : 100
+Stufe IV  : 1.000
+Stufe V   : 10.000
+Stufe VI  : 100.000
+Stufe VII : mindestens 1.000.000 (in der Regel wesentlich höher, da "open end")
+
