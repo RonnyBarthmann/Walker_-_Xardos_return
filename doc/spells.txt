@@ -1,5 +1,7 @@
 MU  HI LA FEE = VII - Feuersturm
 MEK    LA NOP =  II - Feuerkugel
+ME     LA NOP =   I - Feuerkügelchen
+MO     LE REP =   V - Erde oder Pflanzen bändigen
 
 ----------------------------------------------------------------
 
@@ -8,7 +10,7 @@ Stufe:  MU  = VII (7)
         MO  = V   (5)
         MIK = IV  (4)
         MI  = III (3)
-        MEK = II  (2)
+  (mäk) MEK = II  (2)
         ME  = I   (1)
 
 Zusatz: HI = Ohne Bereichslimit
