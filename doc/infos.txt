@@ -150,7 +150,7 @@ Magier mit viel Erfahrung und Macht wissen das natürlich. Magier, die jedoch nu
 
 (und wenn jemand denkt "Ey! das ist ja wie bei wizardry!" ... ja. von Wizardry kamm mir überhaupt die Idee mit den 7 Magieklassen. nur das sie hier eine andere Bedeutung haben. Aber ja. Es gibt sieben Stufen und jede hat ihre eigenen Spellpoints wenn man so will)
 
------------------------- Mana-/Magiesteine / Verzauberte Item / Artefakte -------------------
+------------------------ Mana-/Magiesteine / Verzauberte Item -------------------
 
 Wichtig zu verstehen ist, dass man nur die gemeisterte Magie wirken kann.
 
@@ -168,23 +168,54 @@ So hat in dem Fall der Pfeile Annika den Zauber auf die Pfeile gewirkt und Anita
 Genau deshalb sind Verzauberte und magische Gegenstände nicht das gleiche.
 
 Magische Gegenstände nutzt man selber, um Zauber zu wirken. unterliegen damit der eigenen Klasse.
-Verzauberte Gegenstände haben jedoch einen bereits aktiven Zauber (der mehrmals oder auch nur einmal wirken kann, ja nach Zauber und, im Stein, gebundener Manamenge) und sind daher vom Benutzer unabhängig aktiv.
-
-Artefakte sind eine komplett eigene art von Magie.
-Sie beinhalten Mana, das von jedem genutzt werden kann.
-
-mit ihnen kann selbst ein Stufe 1 Magier oder ein nicht Magier Zaubern.
-Dafür sind sie in der Regel auf einen Zauber limitiert.
-
-Der Grund ist, das Artefakte selbst zaubern.
-Da Artefakte selbst aktiv sind, veranlast man sie nur "ihren Zauber zu wirken" (durch interaktion oder Zauberformel)
-Man selbst benutzt also nicht das Mana vom Artefakt, sondern benutzt das Artefakt selbst.
+Verzauberte Gegenstände haben jedoch einen bereits aktiven Zauber (der mehrmals oder auch nur einmal wirken kann, ja nach Zauber und im Stein gebundener Manamenge) und sind daher vom Benutzer unabhängig.
 
 Kurz:
 Magie/Manasteine: beinhalten Mana, das ein Magier, der das Mana beherrscht, nutzen kann. Er kann also beliebige Zauber der Stufe des Steines wirken, wenn er selbst die Stufe beherscht.
-Verzauberte Items: sind passive Items, die einen bereits aktiven Zauber haben, kann daher von jedem benutzt werden. Auch nicht-Magier.
-Artefakte: sind aktive Items, sie zaubern also selbst (der Zauber wird "aktiviert". z.B. bei berührung oder aufsagen einer Aktivierungsformel), kann daher von jedem benutzt werden. Auch nicht-Magier.
+Verzauberte Items: sind Items, die einen bereits aktiven Zauber haben, kann daher von jedem benutzt werden. Auch nicht-Magier.
 
 noch kürzer:
 Magie/Manastein: kann nur ein Magier der gleichen Stufe nutzen
-Verzauberte Items und Artefakte: kann jeder nutzen
+Verzauberte Items: kann jeder nutzen
+
+----------------- reines und natürliches Mana ---------------------------
+
+Mana kann in zwei formen forliegen.
+
+Im Körper von Lebewesen (also Magiern oder Monstern/Pflanzen) wird Mana "natürlich" generiert
+Das heißt es beinhaltet alle Manabausteine für verschiedene Elemente (Wasser,Feuer,Blitz,Natur,Licht und Schatten) und ist daher Typenfrei (nicht aber Stufen frei)
+
+Im Körper der Wirkers wird es bei Benutzung "aufbereitet", das heißt aus demm Mana werden die Bausteine, die man nicht braucht, rausgefiltert.
+Das schwierige ist also, die Mana-Bausteine rauszufiltern, die man braucht.
+Das ist bei den Wasser,Feuer, Blitz und Natur-Bausteinen recht einfach, daher gibt es viele Magier, die dies können, viele lernen jedoch nur eines rauszufiltern. sind also z.B. gut darin Feuerzauber zu wirken, weil sie diese Bausteine am besten von allen anderen trennen können.
+Licht und Schatten ist schon wesentlich schwieriger und daher nur wenigen, talentierten Magiern vorbehalten.
+Noch schwiriger ist es verschiedene Bausteine rauszufiltern, je nach dem, was man gerade braucht, deshalb gibt es wenige, die mehrere Typen können und dann noch weniger, die alle sechs können.
+
+Mana und Magiesteine, auf der anderen Seite, besitzen meißt reines Mana, also Mana, das bereits nur eine art von Bausteinen beinhaltet.
+Daher gibt es nicht nur "Stufe 6 Manasteine", sonder "Stuffe 6 Feuer-Manasteine"
+Damit sind Steine also, in der Regel, an eine Klasse und eine Stufe gebunden.
+Auf der Plus-Seite ist jedoch, das der eigene Körper nicht filtern braucht.
+Dadurch kann z.B. auch ein Stufe 5 Magier, der sich auf Feuer spezialisiert hat, mit einem Stufe 5 (oder niedriger) Stein von Typ Wasser, Wasserzauber wirken und sogar mit einem Schatten-Stein Schatten-Zauber wirken, selbst wenn er dies mit natürlichem Mana nicht könnte.
+
+Es gibt jedoch auch Typenlose Steine, die natürliches Mana beinhalten, mit diesen kann man dan (wie mit dem eigenen Mana) belibige Zauber der Stufe wirken. jedoch nur von den Typen, die man gelernt hat zu filtern.
+
+Da die Bausteine sich über den Stufe hinweg ähneln, kann man in der Regel Stufenübergreifend einen Typ beherschen.
+Ein Magier, der Stufe 3 beherscht und sich auf Natur spezialisiert hat, kann also auch, wenn er den Stufe 4 meistert, dort vorallem mit Natur arbeiten. Daher betrachtet man den Type unabhängig von der Stufe. Natur-Magier sind und bleiben Naturmagier, selbst wenn sie weitere Stufen meistern. Es sei denn sie lernen auch Wassermagie aufzubereiten. Dann können sie, unabhängig der Stufe, Natur und Wassermagie
+
+Kurz:
+natürliches Mana (das man als Magier auch selbst hat) kann man für jeden Type Zauber einsetzen, jedoch braucht man Übung in dem Typ von Zauber. Daher muss man midestens Feuermagier sein um Feuerzauber wirken zu können.
+Magie/Manasteine besitzen reines Mana, das nur ein Type von Zauber zulässt (also z.B. Blitz) kann dafür aber z.B. auch von Wassermagiern eingesetzt werden, wenn dieser überhaubt keine Übung mit Blitzmagie hat.
+
+So oder so braucht man immer das Grundwissen und Übung wie Mana an sich durch den Körper fließt. daher können Nicht-Magier auch mit Manasteinen nicht Zaubern. Sie können mit Mana ansich einfach nichts anfangen.
+
+------------------------ Artefakte -------------------
+
+Artefakte sind eine komplett eigene art von Magie. und können Zauber wirken, die ganz anders sind als übliche elementare oder göttliche Zauber.
+Sie beinhalten kein Mana im klassischen Sinne, das von jemandem Benutzt wird, sondern haben eine eigene Seele, die zaubert.
+
+Da Artefakte selbst "leben", veranlasst man sie "ihren Zauber zu wirken" (durch interaktion oder Zauberformel)
+Man selbst benutzt also nicht das Mana vom Artefakt, sondern benutzt das Artefakt selbst.
+
+Daher kann auch niemand Artefakte erschafen. Artefakte werden ausschließlich von Göttern in die Welt gebracht, beinhalten dafür aber auch derren Zauber.
+
+z.B. hat das Artefakt, die Gnade des Raben, ein Zauber, das so völlig anders ist, als die art von Zauber, die ein Magier wirken kann.
