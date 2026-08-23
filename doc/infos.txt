@@ -149,3 +149,42 @@ Dennoch kann man durchaus auch z.B. Stufe 6 und 5 Zauber so schnell und lange "s
 Magier mit viel Erfahrung und Macht wissen das natürlich. Magier, die jedoch nur "Lehrbuch Magie" kennen, lernen so was jedoch nur selten. (und können meißt eh nicht mehr als Stufe 3 max Stufe 4 Magie)
 
 (und wenn jemand denkt "Ey! das ist ja wie bei wizardry!" ... ja. von Wizardry kamm mir überhaupt die Idee mit den 7 Magieklassen. nur das sie hier eine andere Bedeutung haben. Aber ja. Es gibt sieben Stufen und jede hat ihre eigenen Spellpoints wenn man so will)
+
+------------------------ Mana-/Magiesteine / Verzauberte Item / Artefakte -------------------
+
+Wichtig zu verstehen ist, dass man nur die gemeisterte Magie wirken kann.
+
+So kann ein Level 3 Magier nur Magie der Stufe 3 wirken. (und in der Regel die darunter, da er diese, in der Regel, auch vorher gemeistert hat)
+Manasteine der Stufe 4 bringen einem also nichts
+
+nicht nur kann man keine Stufe 4 Magie mit ihnen wirken, man kann auch keine Stufe 3 Magie wirken, da es eine andere Magie ist (siehe Manapools)
+
+Jedoch kann JEDER Verzauberte Gegenstände JEDER Stufe benutzen
+So kann Anita z.B. die Stufe 5 Verzauberten Pfeile von Annika nutzen.
+Und selbst ein nicht Magier könne sie verschießen.
+Denn beim benutzen von magischen Gegenständen zaubert man ja nicht selbst, sondert nutzt nur den bereits gewirken Zauber.
+So hat in dem Fall der Pfeile Annika den Zauber auf die Pfeile gewirkt und Anita benutzt sie nur.
+
+Genau deshalb sind Verzauberte und magische Gegenstände nicht das gleiche.
+
+Magische Gegenstände nutzt man selber, um Zauber zu wirken. unterliegen damit der eigenen Klasse.
+Verzauberte Gegenstände haben jedoch einen bereits aktiven Zauber (der mehrmals oder auch nur einmal wirken kann, ja nach Zauber und, im Stein, gebundener Manamenge) und sind daher vom Benutzer unabhängig aktiv.
+
+Artefakte sind eine komplett eigene art von Magie.
+Sie beinhalten Mana, das von jedem genutzt werden kann.
+
+mit ihnen kann selbst ein Stufe 1 Magier oder ein nicht Magier Zaubern.
+Dafür sind sie in der Regel auf einen Zauber limitiert.
+
+Der Grund ist, das Artefakte selbst zaubern.
+Da Artefakte selbst aktiv sind, veranlast man sie nur "ihren Zauber zu wirken" (durch interaktion oder Zauberformel)
+Man selbst benutzt also nicht das Mana vom Artefakt, sondern benutzt das Artefakt selbst.
+
+Kurz:
+Magie/Manasteine: beinhalten Mana, das ein Magier, der das Mana beherrscht, nutzen kann. Er kann also beliebige Zauber der Stufe des Steines wirken, wenn er selbst die Stufe beherscht.
+Verzauberte Items: sind passive Items, die einen bereits aktiven Zauber haben, kann daher von jedem benutzt werden. Auch nicht-Magier.
+Artefakte: sind aktive Items, sie zaubern also selbst (der Zauber wird "aktiviert". z.B. bei berührung oder aufsagen einer Aktivierungsformel), kann daher von jedem benutzt werden. Auch nicht-Magier.
+
+noch kürzer:
+Magie/Manastein: kann nur ein Magier der gleichen Stufe nutzen
+Verzauberte Items und Artefakte: kann jeder nutzen
