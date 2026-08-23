@@ -180,7 +180,7 @@ Verzauberte Items: kann jeder nutzen
 
 ----------------- reines und natürliches Mana ---------------------------
 
-Mana kann in zwei formen forliegen.
+Mana kann in zwei formen vorliegen.
 
 Im Körper von Lebewesen (also Magiern oder Monstern/Pflanzen) wird Mana "natürlich" generiert
 Das heißt es beinhaltet alle Manabausteine für verschiedene Elemente (Wasser,Feuer,Blitz,Natur,Licht und Schatten) und ist daher Typenfrei (nicht aber Stufen frei)
@@ -216,6 +216,12 @@ Sie beinhalten kein Mana im klassischen Sinne, das von jemandem Benutzt wird, so
 Da Artefakte selbst "leben", veranlasst man sie "ihren Zauber zu wirken" (durch interaktion oder Zauberformel)
 Man selbst benutzt also nicht das Mana vom Artefakt, sondern benutzt das Artefakt selbst.
 
-Daher kann auch niemand Artefakte erschafen. Artefakte werden ausschließlich von Göttern in die Welt gebracht, beinhalten dafür aber auch derren Zauber.
+Daher kann auch niemand Artefakte erschafen. Artefakte werden ausschließlich von Göttern in die Welt gebracht, beinhalten dafür aber auch derren Zauberkraft/Macht.
 
 z.B. hat das Artefakt, die Gnade des Raben, ein Zauber, das so völlig anders ist, als die art von Zauber, die ein Magier wirken kann.
+
+Auch können Artefakte jenseits der Macht klassischer Magie liegen.
+Wenn ein Gott ein Artefakt auf die Welt lassen würde, mit der man das gesamte Universum auslöschen kann, dann kann man das. Selbst wenn kein Zauber, selbst der Stufe 7, dies je könnte.
+
+Artefakte sind ihrer potentzielen Macht also dem Gott gleich, der es erschafen hat, haben dafür aber auch ein Teil dessen Seele, MÜSSEN also nicht gehorschen.
+
