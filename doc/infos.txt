@@ -85,7 +85,7 @@ Boosts: Schaden des Gegners: -90% (normal und magie)
 
 Rüstung des Falken:
 Mehrteiliges Rüstungsset bestehend aus weißem Stahl
-Boosts: negiert, bei vollem Set (set effekt) das Gewicht der Rüstung selbst und des "Schwert des Falken" und "Schild des Falken", Schaden des Gegners: -90% (normal) und -99% (magie)
+Boosts: negiert, bei vollem Set (set effekt) das Gewicht der Rüstung selbst und die des "Schwert des Falken", der der "Axt des Falken" und das des "Schild des Falken", Schaden des Gegners: -90% (normal) und -99% (magie)
 
 Info:
 Schadensreduzierungen werden immer multipliziert, nie addiert.
