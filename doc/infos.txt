@@ -35,7 +35,7 @@ Mensch (weiblich) 18 Jahre
 Ritterin mit starker Verteidigung und schwerem Angriff.
 Hat blones Haar, das man nie sieht, weil sie fast immer den Helm trägt.
 Ihre Rüstung ist das Erbe ihres Vaters, von dem sie auch ihr Handwerk hat.
-Items: Schwert des Falken, Schild des Falken, Rüstung des Falken
+Items: Schwert des Falken, Schild des Falken, Rüstung des Falken, Streitaxt des Falken
 
 ------------------ Anderes -------------------
 
@@ -69,9 +69,14 @@ Ein Fingerring mit einem Schwarzen Kristall der Magiestufe VII
 Boosts: Max Leben: +900%, Leben Regeneration: +900%
 
 Schwert des Falken:
-Langschwert das Langsam ist aber dafür enorme Energie aufbauen kann.
+Langschwert das Langsam ist aber dafür enorme Energie aufbauen kann. (stunt Gegner)
 Nervs: -75% bewegungsgeschwindigkeit bei Angriff
 Boosts: Rüstung des Gegners: -90%, Ausweichen von Gegner: -99%
+
+Streitaxt des Falken:
+Streitaxt das Langsam ist aber dafür enorme Energie aufbauen kann. (durchbricht Rüstung)
+Nervs: -75% bewegungsgeschwindigkeit bei Angriff
+Boosts: Rüstung des Gegners: -99%, Ausweichen von Gegner: -90%
 
 Schild des Falken:
 Massives Breitschild
