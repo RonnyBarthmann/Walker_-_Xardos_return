@@ -2,6 +2,7 @@ MU  HI LA FEE = VII - Feuersturm
 MEK    LA NOP =  II - Feuerkugel
 ME     LA NOP =   I - Feuerkügelchen
 MO     LE REP =   V - Erde oder Pflanzen bändigen
+MO     LA REP =   V - Feuerbändigen
 
 ----------------------------------------------------------------
 
