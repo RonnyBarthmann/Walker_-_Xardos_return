@@ -25,7 +25,7 @@ Vollständiger Lizenztext: siehe Datei `LICENSE` oder
 https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
 
 ## Dateien
-- `Xardos.txt` – der vollständige Roman (plain text file)
-- `Xardos.odt` - der vollständige Roman
-- `Xardos.md`  - der vollständige Roman
+- `Xardos.odt` – der vollständige Roman
+- `Xardos.txt` - der vollständige Roman (if exist, plain text file)
+- `Xardos.md`  - der vollständige Roman (if exist)
 - `doc/*`      - zusätzliche Informationen für das Verständnis der Geschichte
