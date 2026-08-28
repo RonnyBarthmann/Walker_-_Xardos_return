@@ -4,6 +4,8 @@ ME     LA NOP =   I - Feuerkügelchen
 MO     LE REP =   V - Erde oder Pflanzen bändigen
 MO     LA REP =   V - Feuerbändigen
 MO     LI VOK =   V - Heilung
+MO     LI REP =   V - Innere Wunden heilen
+MO     LO VOK =   V - Äußere Wunden schließen
 MO     LY NOP =   V - Manakugel schießen, die Gegner lehmt.
 
 ----------------------------------------------------------------
@@ -57,7 +59,7 @@ Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
         LI VOK = Heilt effektiver als die anderen Klassen, dafür keine Spezialisierung
         LY VOK = Heilt bestehende Flüche und befreit Körper vor Parasiten (besessene Körper)
 
-           NIP = AoE
+           NIP = AoE (ab Stufe 4)
         LA NIP = Feuer (aus dem Boden oder als Regen)
         LO NIP = Regen, aus dem Boden sickerndes Wasser, Nebel
         LU NIP = Blitzwolke
