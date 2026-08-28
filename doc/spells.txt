@@ -3,6 +3,8 @@ MEK    LA NOP =  II - Feuerkugel
 ME     LA NOP =   I - Feuerkügelchen
 MO     LE REP =   V - Erde oder Pflanzen bändigen
 MO     LA REP =   V - Feuerbändigen
+MO     LI VOK =   V - Heilung
+MO     LY NOP =   V - Manakugel schießen, die Gegner lehmt.
 
 ----------------------------------------------------------------
 
@@ -18,9 +20,9 @@ Zusatz: HI = Ohne Bereichslimit
 
 Klasse: LA = Feuer
         LO = Wasser
-        LI = Licht
         LU = Blitz
         LE = Natur
+        LI = Licht
    (lü) LY = Schatten/Nekromanie
 
 Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
@@ -46,3 +48,19 @@ Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
         LE REP = Erdbändigen / Ranken, Pflanzen und Wurzeln bändigen (ab Stufe 5 auch Metalle/Eisen)
         LI REP = innere wunden Heilen (auch Statuseffekte wie Überlkeit und Vergiftung)
         LY REP = Geister Befehligen
+
+           VOK = Heilen (allgemein, aber mit Klassen-spezifischen vorteilen)
+        LA VOK = Heilt, besonders effektiv bei Verbrennungen
+        LO VOK = Heilt, besonders effektiv bei oberflächlichen Verletzungen
+        LU VOK = Heilt, besonders effektiv bei psychischer Beeinträchtigungen
+        LE VOK = Heilt, besonders effektiv bei Vergiftungen / Statusbeinträchtigungen.
+        LI VOK = Heilt effektiver als die anderen Klassen, dafür keine Spezialisierung
+        LY VOK = Heilt bestehende Flüche und befreit Körper vor Parasiten (besessene Körper)
+
+           NIP = AoE
+        LA NIP = Feuer (aus dem Boden oder als Regen)
+        LO NIP = Regen, aus dem Boden sickerndes Wasser, Nebel
+        LU NIP = Blitzwolke
+        LE NIP = Aus dem Boden schießende Ranken und herumwirbelnde Blütensamen
+        LI NIP = AoE Heilung (wie LI VOK)
+        LY NIP = Dunkelheit, Verwirrung
