@@ -66,3 +66,11 @@ Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
         LE NIP = Aus dem Boden schießende Ranken und herumwirbelnde Blütensamen
         LI NIP = AoE Heilung (wie LI VOK)
         LY NIP = Dunkelheit, Verwirrung
+
+           NEP = Strahl
+        LA NEP = gerichteter Feuerwirbel, ab Stufe 5 auf Laserstrahl (verdichtetes Feuer)
+        LO NEP = Wasserstrahl
+        LU NEP = Gerichteter Blitz
+        LE NEP = Ranke die aus dem Boden schnellt und dann nach vorne Schießt
+        LI NEP = 
+        LY NEP = 
