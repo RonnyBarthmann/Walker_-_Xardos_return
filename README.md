@@ -29,3 +29,14 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
 - `Xardos.txt` - der vollständige Roman (if exist, plain text file)
 - `Xardos.md`  - der vollständige Roman (if exist)
 - `doc/*`      - zusätzliche Informationen für das Verständnis der Geschichte
+
+## Hinweis:
+ich nutze AI (LLM, grok.com) zum ausformulieren des Textes
+
+Das bedeutet, das ich mir die Geschichte ausdenke und in kleinen Häppchen als Promt an grok.com reiche.
+
+Dieses macht dann aus den Stichpunkten vollständige Textpassagen.
+
+Die Story und der gesammt Plot ist also von mir erdacht
+
+die LLM ist nur dafür da, das keiner an meinen Rechtschreibfehlern stirbt und die Sätze etwas "ausgeschmückter" sind.
