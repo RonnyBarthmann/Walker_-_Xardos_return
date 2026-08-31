@@ -18,7 +18,7 @@ Stufe:  MU  = VII (7)
   (mäk) MEK = II  (2)
         ME  = I   (1)
 
-Zusatz: HI = Ohne Bereichslimit
+Zusatz: HI = Ohne Bereichslimit / Ultimate
 
 Klasse: LA = Feuer
         LO = Wasser
@@ -72,5 +72,5 @@ Zauber:    FEE = Flut (bis Stufe 2 auch Spruchlos)
         LO NEP = Wasserstrahl
         LU NEP = Gerichteter Blitz
         LE NEP = Ranke die aus dem Boden schnellt und dann nach vorne Schießt
-        LI NEP = 
-        LY NEP = 
+        LI NEP = Lichtmagiestrahl (ab Stufe 6)
+        LY NEP = Schattenmagiestrahl (ab Stufe 6)
