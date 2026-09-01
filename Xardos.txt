@@ -4582,11 +4582,17 @@ Langsam spüren wir alle, dass wir uns im Wirkbereich einer Magie befinden, die 
 
 Selbst sie, die sonst so kontrolliert und scharf wirkt, geht jetzt mit leicht angespannten Schultern. Der Zauberstab in ihrer Hand vibriert leise, als reagiere er auf etwas, das er nicht fassen kann. Alita hat den Schritt verlangsamt. Lydia hält den Kokon fester. Und Anita drückt sich noch enger an meine Seite.  
 
-Magieklassen sind logarithmisch kategorisiert.  
+Die Magiestufen sind logarithmisch kategorisiert.  
 
 Das habe ich in den alten Büchern gelernt, Seite um Seite, Nacht um Nacht.  
 
-Stufe 1 ist „normale“ Magie, wie sie jeder Hanswurst wirken kann. Kleine Feuerbälle hier. Eine Wasserpfütze erzeugen da. Spielereien.  
+Von Stufe 1 bis 5 ist es immer alle zwei Stufen das zehn Fache.  
+
+Ab Stufe 6 ist es sogar jede Stufe das zehn Fache.  
+
+Was das bedeutet!  
+
+Stufe 1 ist noch „normale“ Magie, wie sie jeder Hanswurst wirken kann. Kleine Feuerbälle hier. Eine Wasserpfütze erzeugen da. Spielereien.  
 
 Stufe 3 ist dann schon das Zehnfache davon. Wesentlich kraftvollere Magie eines Erwachsenen. Etwas, das man ernst nehmen muss.  
 
@@ -4598,7 +4604,7 @@ Doch das hier…
 
 Das hier ist nicht „nur“ Stufe 7.  
 
-Stufe 7 ist mindestens das Zehnfache von dem, was Annika könnte. Mindestens das Zehntausendfache eines Anfängers.  
+Stufe 7 ist nicht nur mindestens das Hundertfache von dem, was Annika könnte. Mindestens das Zehntausendfache eines Anfängers.  
 
 Nein.  
 
@@ -4606,7 +4612,7 @@ Stufe 7 ist die letzte Stufe.
 
 Das heißt, sie ist open end.  
 
-Stufe 7 sagt nur aus, wie viel Macht ein Magier *mindestens* hat. Doch er kann darüber hinaus so viel mehr besitzen, dass es Stufe 9 oder 11 wäre – wenn es diese Stufen denn gäbe.  
+Stufe 7 sagt nur aus, wie viel Macht ein Magier *mindestens* hat. Doch er kann darüber hinaus so viel mehr besitzen, dass es Stufe 8 oder 9 wäre – wenn es diese Stufen denn gäbe.  
 
 Und Xardos war einer dieser.  
 
