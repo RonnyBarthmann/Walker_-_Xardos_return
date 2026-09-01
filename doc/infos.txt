@@ -116,18 +116,18 @@ Schild des Falken   : 5000
 
 Schaden (magie - normal angriff - wiederholbar)
 Stufe I   : 1
-Stufe II  : 3-
+Stufe II  : 3
 Stufe III : 10
-Stufe IV  : 300
-Stufe V   : 1000 
-Stufe VI  : 3000
+Stufe IV  : 30
+Stufe V   : 100 
+Stufe VI  : 1000
 Stufe VII : mindestens 10.000 (in der Regel wesentlich höher, da "open end")
 
 Schaden (magie - ultimativer angriff - 100% mana verbraucht)
 Stufe I   : -
 Stufe II  : -
-Stufe III : 100
-Stufe IV  : 1.000
+Stufe III : 1.000
+Stufe IV  : 3.000
 Stufe V   : 10.000
 Stufe VI  : 100.000
 Stufe VII : mindestens 1.000.000 (in der Regel wesentlich höher, da "open end")
