@@ -11,9 +11,13 @@ Eine Geschichte über die Wiedergeburt (isekai) eines Menschen als Magier in ein
 Stell dir vor, du findest dich plötzlich auf einer endlosen Wiese wieder.
 
 Seltsam? Ja. Doch genau das geschieht Walker, unserem Protagonisten.
+
 In dieser Geschichte bist du ein junger Mann, dessen gesamte bisherige Welt in einem Traum endet – und in einer anderen Realität von neuem beginnt. Eine Welt voller Magie, alter Legenden und Mächte, die längst in Vergessenheit geraten schienen.
+
 In dieser unwirklichen, magischen Welt begegnet Walker neuen Mitstreitern: zwei Elfen-Schwestern, einer Kriegerin und weiteren unerwarteten Gefährten. Gemeinsam machen sie sich auf einen Weg, der weit über das hinausgeht, was Walker jemals für möglich gehalten hätte.
+
 Eine geheimnisvolle Macht, die es erst zu verstehen gilt, beginnt sein Schicksal zu steuern und führt ihn einer Aufgabe entgegen, wie sie nur Götter auferlegen können. In einer Welt, die einst von mächtigen Magiern geprägt und für immer verändert wurde, muss Walker langsam begreifen, dass er Teil von etwas weit Größerem ist – etwas, das ihn fordert, formt und auf eine Probe stellt, deren Ausgang niemand vorhersehen kann.
+
 Eine Geschichte über Identität, Zugehörigkeit und das Erwachen einer Kraft, die sowohl Geschenk als auch schwere Bürde ist.
 
 ## Lizenz
